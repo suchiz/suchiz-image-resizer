@@ -1,0 +1,1 @@
+# suchiz-image-resizer

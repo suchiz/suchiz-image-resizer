@@ -1,0 +1,22 @@
+---
+# General configuration
+BasedOnStyle: Google
+ColumnLimit: 120
+---
+# C/C++ configuration
+Language: Cpp
+DerivePointerAlignment: false
+PointerAlignment: Left
+PointerBindsToType: true
+AlignConsecutiveMacros: true
+AlignConsecutiveDeclarations: true
+IndentPPDirectives: AfterHash
+AlignConsecutiveAssignments: true
+AllowShortCaseLabelsOnASingleLine: true
+BreakBeforeTernaryOperators: true
+BinPackParameters : false
+AlignArrayOfStructures : Left
+QualifierAlignment : Right
+SeparateDefinitionBlocks: Always
+---
+# To be continued...
